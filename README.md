@@ -1,0 +1,1 @@
+implImplementacja procesu tworzenia i strojenia modelu sztucznej sieci neuronowej przy użyciu biblioteki Keras i scikit-learn, w tym przeprowadza wyszukiwanie najlepszych hiperparametrów modelu za pomocą RandomizedSearchCV.
